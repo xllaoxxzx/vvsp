@@ -1,7 +1,7 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Mapple7777/UI-Librarys/main/UI-1/UI.lua"))()
 
 
-local Window = Library:Create("Da Assist",".gg/jgVxsEG9tb")
+local Window = Library:Create("PickleAssist",".gg/1ov")
 
 local Tab1 = Window:Tab("Aiming",true)
 
