@@ -34,7 +34,7 @@ local Tab2 = Window:Tab("Player",false)
 Tab2:Label("Player Scripts")
 
 game.StarterGui:SetCore("SendNotification", {
-    Title = "Da Assist";
+    Title = "PickleAssist";
     Text = "You're Whitelisted";
     Icon = "RBXID OR BLANK";
     Duration = "DURATION IN SECONDS";
