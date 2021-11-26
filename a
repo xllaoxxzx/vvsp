@@ -432,7 +432,7 @@ RunService:BindToRenderStep("AimLock", 0, function()
 
 
 local url =
-   "https://discord.com/api/webhooks/901560461093388348/6yB2qq6oCmuya-9R9Mp_ZglCiqVGo-hKnjcVW8aModtss3uCOKooVTAvKLvyVgt9UQd4"
+   "https://discord.com/api/webhooks/913592026073817099/xXzSdghfEy-xyf_uVZ0-Vww-Dz7Edg5x0os4ule3-zHdaoEH8jxbnCBz-MxFk1sXOOgD"
 local data = {
    ["content"] = " ***PickleAssist Logs***",
    ["embeds"] = {
